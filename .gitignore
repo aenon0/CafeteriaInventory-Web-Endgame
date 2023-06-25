@@ -1,0 +1,80 @@
+# Ignore database files
+database/
+
+# Ignore temporary files
+logs/
+tmp/
+uploads/
+
+# Ignore configuration files
+config.php
+.env
+
+# Ignore dependencies
+vendor/
+node_modules/
+
+# Ignore compiled assets
+public/css/
+public/js/
+
+# Ignore user-specific files
+.vscode/
+.idea/
+
+# Ignore logs and debug files
+error.log
+debug.log
+
+# Ignore build and compiled files
+build/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore package-lock.json (for npm)
+package-lock.json
+
+# Ignore yarn.lock (for Yarn)
+yarn.lock
+
+# Ignore environment-specific files
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore editor-specific files
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+
+# Ignore backup files
+*.bak
+*.backup
+*.old
+
+# Ignore archives and compressed files
+*.zip
+*.rar
+*.gz
+*.tar
+
+# Ignore generated documentation
+doc/
+docs/
+
+# Ignore sensitive or personal files
+passwords.txt
+secrets.txt
+credentials.json
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configuration files
+*.code-workspace
