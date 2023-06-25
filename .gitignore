@@ -1,5 +1,5 @@
 # Ignore database files
-database/
+# database/
 
 # Ignore temporary files
 logs/
@@ -15,8 +15,8 @@ vendor/
 node_modules/
 
 # Ignore compiled assets
-public/css/
-public/js/
+# public/css/
+# public/js/
 
 # Ignore user-specific files
 .vscode/
@@ -70,7 +70,7 @@ docs/
 # Ignore sensitive or personal files
 passwords.txt
 secrets.txt
-credentials.json
+# credentials.json
 
 # Ignore operating system files
 .DS_Store
